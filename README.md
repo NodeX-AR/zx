@@ -1,0 +1,2 @@
+# zx
+server ping
